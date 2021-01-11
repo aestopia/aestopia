@@ -10,8 +10,7 @@ Aestopia の利用を開始するために必要なものは**メールアドレ
 
 ### 1. 店舗管理アカウントを作成する
 
-[アカウント作成ページ](http://business.aestopia.net/signup)からアカウントを作成してください。
-
+[アカウント作成ページ](http://business.aestopia.net/signup)からアカウントを作成してください。  
 メールアドレスとパスワードでアカウントを作成できます。
 
 ### 2. メールアドレスを確認する
@@ -20,8 +19,7 @@ Aestopia の利用を開始するために必要なものは**メールアドレ
 
 ### 3. 必要事項を送信する
 
-[ログイン](http://business.aestopia.net/login)した状態で[申し込みフォーム](http://business.aestopia.net/application-form)を開いてください。
-
+[ログイン](http://business.aestopia.net/login)した状態で[申し込みフォーム](http://business.aestopia.net/application-form)を開いてください。  
 必要事項を入力して送信してください。
 
 不明な点があれば、[問い合わせフォーム](http://business.aestopia.net/contact)からお問い合わせください。
