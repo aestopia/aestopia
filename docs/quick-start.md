@@ -22,7 +22,7 @@ Aestopia の利用を開始するために必要なものは**メールアドレ
 [ログイン](http://business.aestopia.net/login)した状態で[申し込みフォーム](http://business.aestopia.net/application-form)を開いてください。  
 必要事項を入力して送信してください。
 
-不明な点があれば、[お問い合わせ](http://business.aestopia.net/contact)からお問い合わせください。
+不明な点があれば、[お問い合わせ](http://business.aestopia.net/support)からお問い合わせください。
 
 ## 店舗を公開する
 
